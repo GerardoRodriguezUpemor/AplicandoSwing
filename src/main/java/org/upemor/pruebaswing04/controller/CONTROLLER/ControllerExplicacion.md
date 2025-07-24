@@ -9,7 +9,7 @@ Esta clase abstracta define la estructura base para los controladores de la apli
 ## Métodos clave
 
 ### Método abstracto: validate(E obj)
-> Relacionado: [¿Qué es validate y por qué es abstracto?](ABSTRACTS/ValidateMetodoExplicacion.md)
+> Relacionado: [¿Qué es validate y por qué es abstracto?](METHODS/ABSTRACTS/ValidateMetodoExplicacion.md)
 ```java
 protected abstract boolean validate(E obj) throws Exception;
 ```

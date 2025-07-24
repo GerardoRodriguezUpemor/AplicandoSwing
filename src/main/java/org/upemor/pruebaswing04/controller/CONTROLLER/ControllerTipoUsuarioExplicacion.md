@@ -13,7 +13,7 @@ public ControllerTipoUsuario() throws Exception {
 - Inicializa el repositorio específico para `TipoUsuario`.
 
 ### validate(TipoUsuario obj)
-> Relacionado: [¿Qué es validate y por qué es abstracto?](CONTROLLER/ABSTRACTS/ValidateMetodoExplicacion.md)
+> Relacionado: [¿Qué es validate y por qué es abstracto?](METHODS/ABSTRACTS/ValidateMetodoExplicacion.md)
 ```java
 @Override
 protected boolean validate(TipoUsuario obj) throws Exception {
